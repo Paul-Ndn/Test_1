@@ -3,4 +3,5 @@ etape 2 : ajout ligne from github dev
 etape 3 : ajout ligne from github pull requests
 etape 4 : Hello Charles !
 etape 5 : Bonne année Charles !!
-etape 6 : Pierrot la Lune
+etape 6 : ICU
+etape 7 : Coucou Choupi
